@@ -1,3 +1,4 @@
 node_modules
 .DS_Store
 public
+themes/equity/assets/css/main.css
