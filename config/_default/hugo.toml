@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-GB'
+title = 'Richard Lyon'
+cleanDestinationDir = true
+
+theme = 'equity'
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+delimiters = { block = [['\[', '\]'], ['$$', '$$']], inline = [['\(', '\)']] }
+
+[module]
+[module.hugoVersion]
+extended = false
+min = "0.116.0"

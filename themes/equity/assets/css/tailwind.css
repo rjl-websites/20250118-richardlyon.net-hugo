@@ -1,0 +1,23 @@
+@import "/../../static/fonts/equity-a/fonts.css";
+@import "/../../static/fonts/equity-a-caps/fonts.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "equity_a", Georgia, serif;
+    scroll-behavior: smooth !important;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "equity_a_caps", sans-serif;
+    text-transform: lowercase;
+    font-weight: bolder;
+  }
+}

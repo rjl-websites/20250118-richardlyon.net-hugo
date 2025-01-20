@@ -1,0 +1,41 @@
+<!-- Navbar -->
+<nav x-data="{ open: false }">
+  <div class="">
+    <div class="flex justify-between items-center h-16">
+
+      <!-- Website Title -->
+      <div class="flex-shrink-0">
+        <a href="/" class="text-2xl font-bold text-gray-800">{{ site.Title }}</a>
+      </div>
+
+      <!-- Hamburger Icon for Mobile -->
+      <div class="flex md:hidden">
+        <button @click="open = !open" type="button" class="text-gray-500 hover:text-gray-800 focus:outline-none focus:ring-2 focus:ring-blue-500">
+          <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+          </svg>
+        </button>
+      </div>
+
+      <!-- Desktop Menu -->
+      <div class="hidden md:flex space-x-4">
+        {{- range .Site.Menus.main }}
+          <a href="{{ .URL }}" class="text-indigo-500 hover:text-blue-500 hover:underline px-1 py-2 rounded-md">
+            {{ .Name }}
+          </a>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div x-show="open" @click.away="open = false" class="md:hidden">
+    <div class="space-y-1 px-2 pt-2 pb-3">
+      {{- range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="block text-gray-800 hover:text-blue-500 px-3 py-2 rounded-md text-base font-medium">
+          {{ .Name }}
+        </a>
+      {{- end }}
+    </div>
+  </div>
+</nav>
