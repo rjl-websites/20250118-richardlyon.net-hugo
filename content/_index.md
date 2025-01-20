@@ -5,11 +5,13 @@ draft: false
 ---
 _Hello._
 
-Thank you for being here! I'm Richard Lyon. This is my personal website.
+Thank you for being here! 
 
-You'll find essays on matters of interest. These are generally written to help me think about a subject, not to attempt you to persuade you what to think about one.
+I'm Richard Lyon. This is my personal website.
 
-You'll also find write ups for various projects.
+You'll find essays on matters of interest. These are generally written to help me think about a subject, not to attempt to persuade you what to think about one.
+
+You'll also find write ups on various projects.
 
 And you'll find some snaps.
 
