@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-GB'
 title = 'Richard Lyon'
-cleanDestinationDir = true
+cleanDestinationDir = false
 
 theme = 'equity'
 

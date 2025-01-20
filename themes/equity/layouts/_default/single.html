@@ -6,6 +6,7 @@
 <div class="bg-red-0 min-w-52">
   <div class="mt-20 text-right text-gray-500">
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    {{ with .Params.Topic }} <div class="text-2xl text-gray-500 mb-5">{{ . }}</div> {{ end }}
   </div>
 </div>
 
