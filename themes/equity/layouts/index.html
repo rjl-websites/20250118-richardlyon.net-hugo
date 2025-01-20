@@ -1,16 +1,10 @@
 {{ define "main" }}
 
-<!-- sidebar -->
-<div class="bg-red-0 min-w-52">
-</div>
-
-<!-- main -->
-<div class="bg-green-0 flex-grow w-full">
-
-    <div class="prose prose-2xl">
+<div class="row">
+    <div class="left-column"></div>
+    <div class="prose prose-2xl right-column">
         {{ .Content }}
     </div>
-    
-</div>
+  </div>
 
 {{ end }}
