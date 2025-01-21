@@ -23,3 +23,7 @@
     @apply flex-grow ;
   }
 }
+
+.prose hr {
+  @apply my-10; /* Adjusts the margin for hr elements within prose */
+}

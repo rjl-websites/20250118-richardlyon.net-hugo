@@ -10,9 +10,9 @@ draft: false
 
 \[This essay is based on an excellent series of tweets published by Joel Smalley who, if you are interested in these matters, I highly recommend you follow. NOTE: I am not a legal expert, and this is not legal advice. You must obtain your own legal advice if you decide to act on anything contained in this essay.\]
 
-In a previous essay, I looked at the experimental COVID-19 vaccines and how the UK Government bypassed the safety controls contained in the Human Medicines Regulations 2012, both to authorise their use without a license, and to prohibit us from suing their manufacturers if we are harmed by any currently unknown side-effect.
+In a [previous essay](/writing/covid-19-what-might-have-been), I looked at the experimental COVID-19 'vaccines' and how the UK Government bypassed the safety controls contained in the Human Medicines Regulations 2012, both to authorise their use without a license, and to prohibit us from suing their manufacturers if we are harmed by any currently unknown side-effect.
 
-The consequence of this is that, if you consent to vaccination, you are participating in scientific research into an experimental treatment. That’s fine if you do so willingly, feel adequately informed about the consequences, and believe that the risks of infection outweigh the risks of experimental vaccination treatment. In this newsletter, we look at the laws protecting those of us who don’t.
+The consequence of this is that, if you consent to 'vaccination', you are participating in scientific research into an experimental treatment. That’s fine if you do so willingly, feel adequately informed about the consequences, and believe that the risks of infection outweigh the risks of experimental vaccination treatment. In this newsletter, we look at the laws protecting those of us who don’t.
 
 Four fundamental legal principles protect us:
 
@@ -24,7 +24,7 @@ We cannot be required by law to undergo medical treatment, including vaccination
 
 It’s as simple as that.
 
-## [2] We must be able freely to give informed consent, and can do so
+## [2] We must be able freely to give informed consent, and are competent to
 
 “Informed consent” forms the foundation of medical laws, ethics, and codes in liberal democracies. It’s written into the United Nations International Covenant on Civil and Political Rights:[^4]
 
@@ -54,7 +54,7 @@ Para 76:
 
 > it has become far easier, and far more common, for members of the public to obtain information about symptoms, investigations, treatment options, risks and side-effects…It would therefore be a mistake to view patients as uninformed, incapable of understanding medical matters, or wholly dependent upon a flow of information from doctors.
 
-In short: you have rights, you are able to understand risk, and the vaccine administrator has a Duty in law to warn you of the risks you are undertaking by receiving an experimental vaccine treatment. But since the long term safety trials necessary to determine the risks inherent in the experimental vaccine treatments will not be concluded for another two years, she can’t fulfil this duty. Even if she could, you can decline.
+In short: you have rights, you are able to understand risk, and the 'vaccine' administrator has a Duty in law to warn you of the risks you are undertaking by receiving an experimental vaccine treatment. Since the long term safety trials necessary to determine the risks inherent in the experimental 'vaccine' treatments will not be concluded for another two years, she can’t fulfil this duty. Even if she could, you can decline.
 
 ## [3] We cannot be forced, coerced, or deceived into giving consent
 
@@ -68,7 +68,7 @@ The UK Government cannot do it, and we do not have to submit to it.
 
 ## [4] We cannot be discriminated against
 
-And if you do choose not to participate in scientific research into an experimental treatment, the Equality Act (2010) ensures that you cannot be discriminated against for doing so. [^10] The Act defines a series of ‘protected characteristics’, of which ‘disability’ is one. Those who suffer from infection, for example HIV, automatically meet the disability definition. [^11] Under the Act, treating an infected person unfavourably—say, denying you access to a bar or restaurant—is prohibited. Moreover, the Act places a Duty on anyone putting an infected person at a disadvantage to take such steps as are reasonable to have to take to avoid the disadvantage.
+And if you do choose not to participate in scientific research into an experimental treatment, the Equality Act (2010) ensures that you cannot be discriminated against for doing so.[^10] The Act defines a series of ‘protected characteristics’, of which ‘disability’ is one. Those who suffer from infection, for example HIV, automatically meet the disability definition. [^11] Under the Act, treating an infected person unfavourably—say, denying you access to a bar or restaurant—is prohibited. Moreover, the Act places a Duty on anyone putting an infected person at a disadvantage to take such steps as are reasonable to have to take to avoid the disadvantage.
 
 Ultimately, the test of these rights will be in court. I suspect many cases will be brought over the coming months—so many, perhaps, that the justice system will be overrun.
 

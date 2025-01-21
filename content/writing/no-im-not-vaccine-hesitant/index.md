@@ -1,11 +1,11 @@
 ---
 date: '2021-04-02T12:33:40Z'
-title: No, Im Not 'Vaccine Hesitant'
-summary: I've had many licensed vaccines. But why would I take an unlicensed, experimental treatment for an infection I recovered from without incident?
+title: No, I'm Not "Vaccine Hesitant"
+summary: I've had many licensed vaccines. But why would I take an unlicensed, experimental treatment for an infection I recovered from fully and without incident?
 subjects: [covid-19]
 draft: false
 ---
-![Passport and vaccination record](images/vaccine-passport.jpg)
+![Passport and vaccination record](images/vaccine-passport.jpg "I've travelled and worked extensively in Africa and have had more vaccines than most people.")
 
 Before lockdown brought my livelihood to an abrupt halt, I commuted every month to West Africa. There, I was exposed to viruses that were much more likely than SAR-CoV-2 to harm me. Vaccines have undoubtedly prevented me from becoming seriously ill, and have possibly saved my life. I’m a fan of vaccines.
 
