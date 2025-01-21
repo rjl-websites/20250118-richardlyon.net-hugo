@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start": "hugo server & npx tailwindcss -i ./themes/equity/assets/css/tailwind.css -o ./themes/equity/assets/css/main.css --watch"
+        "start": "hugo server & npx tailwindcss -i ./themes/equity/assets/css/tailwind.css -o ./themes/equity/assets/css/main.css --watch",
+        "build:css": "tailwindcss -i ./themes/equity/assets/css/tailwind.css -o ./static/css/main.css --minify"
     },
     "keywords": [],
     "author": "",
