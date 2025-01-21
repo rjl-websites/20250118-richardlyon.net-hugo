@@ -1,8 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://richardlyon.netlify.app/'
 languageCode = 'en-GB'
 title = 'Richard Lyon'
 cleanDestinationDir = false
-
 theme = 'equity'
 
 [taxonomies]
