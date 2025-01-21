@@ -1,8 +1,4 @@
 node_modules
 .DS_Store
 public
-
-# NOTE: Uncomment this after trouble shooting and 
-# add `command = "npm run build:css && hugo --gc --minify"` to netlify.toml
-
-# themes/equity/assets/css/main.css  
+themes/equity/assets/css/main.css  

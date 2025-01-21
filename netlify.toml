@@ -1,17 +1,17 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "npm run build:css && hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.141.0"
 HUGO_ENV = "production"
 
 [context.split1]
-command = "hugo --gc --minify"
+command = "npm run build:css && hugo --gc --minify"
 
 [context.deploy-preview]
-command = "hugo --gc --minify"
+command = "npm run build:css && hugo --gc --minify"
 
 [context.branch-deploy]
-command = "hugo --gc --minify"
+command = "npm run build:css && hugo --gc --minify"
 
