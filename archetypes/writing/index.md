@@ -2,6 +2,6 @@
 date: '{{ .Date }}'
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 summary:
-topic: 
+subjects: [] 
 draft: true
 ---

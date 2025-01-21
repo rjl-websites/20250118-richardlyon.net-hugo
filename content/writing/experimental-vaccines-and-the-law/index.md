@@ -2,7 +2,7 @@
 date: '2021-04-12T13:03:03Z'
 title: 'Experimental Vaccines and the Law'
 summary: The COVID-19 'vaccines' are an unlicensed, experimental treatment. What if you don't consent to participating in scientific research?
-topic: covid-19
+subjects: [covid-19]
 draft: false
 ---
 

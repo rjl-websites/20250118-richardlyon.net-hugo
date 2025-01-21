@@ -2,7 +2,7 @@
 date: '2021-04-02T12:33:40Z'
 title: No, Im Not 'Vaccine Hesitant'
 summary: I've had many licensed vaccines. But why would I take an unlicensed, experimental treatment for an infection I recovered from without incident?
-topic: covid-19
+subjects: [covid-19]
 draft: false
 ---
 ![Passport and vaccination record](images/vaccine-passport.jpg)

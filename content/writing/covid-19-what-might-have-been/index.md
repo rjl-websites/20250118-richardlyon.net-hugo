@@ -2,7 +2,7 @@
 date: '2021-02-04T11:06:06Z'
 title: 'COVID-19: What might have been'
 summary: The UK's pandemic preparedness strategy rejected lockdowns. Our Government estimates they'll kill more people than COVID-19. How did we get in this mess?
-topic: covid-19
+subjects: [covid-19]
 draft: false
 ---
 

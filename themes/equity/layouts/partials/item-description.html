@@ -1,0 +1,32 @@
+<!-- Renders a content item's title, date, summary, and subjects -->
+
+<!-- Title -->
+<div class="row">
+<div class="left-column"></div>
+<div class="right-column">
+    <h2 class="mb-1 font-bold lowercase font-equity-b-caps"><a class="hover:underline" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+</div>
+</div>
+
+<!-- Meta / summary -->
+<div class="mb-5 row">
+<div class="pr-5 text-2xl text-gray-500 left-column">
+    <!-- Date -->
+    <p>{{ dateFormat "January 2, 2006" .Date }}</p>
+</div>
+
+<div class="right-column">
+    <p class="text-gray-700">{{ .Summary }}</p>
+    <!-- Categories -->
+    <div class="text-gray-400">
+    {{ with .Params.Subjects }}
+    {{ $sortedSubjects := sort . }}
+    {{ $length := len $sortedSubjects }}
+    {{ range $index, $element := $sortedSubjects }}
+        {{ if ne $index 0 }}/ {{ end }}
+        <a class="italic hover:underline hover:text-gray-500" href="{{ (site.GetPage "taxonomyTerm" (printf "subjects/%s" $element)).RelPermalink }}">{{ humanize $element }}</a>
+    {{ end }}
+    {{ end }}
+    </div>
+</div>
+</div>

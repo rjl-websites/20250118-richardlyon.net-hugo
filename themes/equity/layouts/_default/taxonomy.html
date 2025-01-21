@@ -1,25 +1,28 @@
 {{ define "main" }}
 
-<!-- main -->
+<!-- This controls /subjects/ -->
+
+
 <div class="w-full bg-green-0">
 
   <!-- Page title -->
   <div class="pt-2 pb-5 border-t border-black border-solid">
     <h1 class="text-4xl font-bold tracking-tighter lowercase font-equity-b-caps ">{{ .Title }}</h1>
   </div>
-
+  
   <!-- Page description -->
   <div class="pb-10 text-3xl text-gray-700">
     {{ .Content }}
   </div>
 
   <!-- Items -->
-  {{ range .Pages }}
+  {{ range (.Pages.ByLinkTitle) }}
 
   {{ partial "item-description.html" . }}
-
+  
   {{ end }}
-    
+  
 </div>
 
-{{ end}}
+{{ end }}
+

@@ -5,6 +5,9 @@ cleanDestinationDir = false
 
 theme = 'equity'
 
+[taxonomies]
+subject = 'subjects'
+
 [markup.goldmark.extensions.passthrough]
 enable = true
 delimiters = { block = [['\[', '\]'], ['$$', '$$']], inline = [['\(', '\)']] }

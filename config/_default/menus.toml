@@ -14,7 +14,13 @@ pageRef = '/photos'
 weight = 30
 
 [[main]]
+name = 'Subjects'
+pageRef = '/subjects'
+weight = 40
+
+
+[[main]]
 name = 'About'
 pageRef = '/about'
-weight = 40
+weight = 50
 
