@@ -1,1 +1,5 @@
-# 250118-richardlyon.net-hugo
+# richardlyon.net
+
+Hugo / Tailwind website.
+
+![](./screenshot.png)
