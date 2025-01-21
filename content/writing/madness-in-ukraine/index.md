@@ -12,9 +12,9 @@ TV comedian Volodymyr Zelensky was elected President of Ukraine on April 21, 201
 
 In that same month, the influential US military think tank RAND Corporation published a startling report outlining bold policy measures that the US and NATO could implement to destabilize Russia’s government. The report’s remarkably frank recommendations included strategies that could potentially lead to regime change.[^2]
 
-These measures, which contradicted President Zelensky’s election promises to Ukrainian citizens, included supplying lethal weapons to Ukraine to escalate its conflict with Russia, recommitting to Ukraine’s integration into an expanding NATO, repositioning NATO fighters, bombers, tactical and nuclear missiles, and troops along the Russian border to exert pressure on Russia’s military defenses, and interfering in Russian elections to undermine public confidence in the Russian government.
+These measures, which contradicted President Zelensky’s election promises to Ukrainian citizens, included: supplying lethal weapons to Ukraine to escalate its conflict with Russia; recommitting to Ukraine’s integration into an expanding NATO; repositioning NATO fighters, bombers, tactical and nuclear missiles, and troops along the Russian border to exert pressure on Russia’s military defenses; and interfering in Russian elections to undermine public confidence in the Russian government.
 
-In December 2021, Russia sought security guarantees from the United States and NATO that they would not implement these measures. They refused. Russia invaded Ukraine on February 24 2022.
+In December 2021, Russia sought security guarantees from the United States and NATO that they would not implement these measures. NATO refused. Russia invaded Ukraine on February 24 2022.
 
 In March 2022, during initial peace negotiations, Russia reiterated its demand for security assurances from NATO. President Zelensky indicated openness to forgoing Ukraine’s NATO membership aspirations. The United Kingdom, under Boris Johnson, sabotaged the talks.[^3] An estimated 600,000 Ukrainian men were subsequently killed.
 
@@ -22,7 +22,7 @@ In January 2024, the head of the British Army General Patrick Saunders signalled
 
 Until recently, the most newsworthy aspect of Ukraine was its history of corruption, ultranationalism, neo-Nazism, antisemitism, and its persecution of ethnic Russians and other minorities.[^5] Since then, the UK as spent £18 billion on it in a proxy war with Russia.
 
-Life happens fast.
+## Life happens fast
 
 During the Cold War, the RAND Corporation—authors of the NATO strategy currently being enacted to destabilise Russia—contributed significantly to the doctrine of Mutually Assured Destruction (MAD). The MAD doctrine is a military strategy asserting that if two opposing sides possess the capability to inflict unacceptable damage on each other with nuclear weapons, neither side will initiate a conflict, as it would lead to total annihilation for both.
 

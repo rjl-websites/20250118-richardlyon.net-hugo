@@ -1,6 +1,6 @@
 ---
 title: Politics
-summary: A summary of 'politics'.
+summary: We're going insane.
 ---
 
 This is some stuff about politics.

@@ -1,6 +1,6 @@
 ---
 title: Economics
-summary: A summary of economics.
+summary: Most economic theory is wrong. And I'm an economist.
 ---
 
 This is some stuff about economics.

@@ -1,6 +1,6 @@
 ---
 title: Covid-19
-summary: A summary of covid-19.
+summary: A catastrophic act of mass-hysteria and self-harm.
 ---
 
-This is some stuff about Covid-19.
+The median age of death from Covid-19 is higher than the median age of death. From the start, I found the response to it inexplicable and terrifying. The state instruments developed in that period are now major tools in the project to alter our lives.

@@ -1,6 +1,6 @@
 ---
-title: Projects
+title: My Projects
 draft: false
 ---
 
-These are my projects.
+I have an eclectic set of interests.

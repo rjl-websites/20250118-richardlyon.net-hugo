@@ -12,7 +12,9 @@
 <div class="mb-5 row">
 <div class="pr-5 text-2xl text-gray-500 left-column">
     <!-- Date -->
+    {{ if ne .Section "subjects" }}
     <p>{{ dateFormat "January 2, 2006" .Date }}</p>
+    {{ end }}
 </div>
 
 <div class="right-column">

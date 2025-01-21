@@ -1,6 +1,6 @@
 ---
 title: Energy
-summary: The loss will kill us.
+summary: The most important subject in the world.
 ---
 
 This is some stuff about energy.

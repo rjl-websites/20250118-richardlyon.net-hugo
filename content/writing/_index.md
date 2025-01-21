@@ -3,4 +3,4 @@ title: My Writing
 draft: false
 ---
 
-This is a list of my writing.
+These are mostly written to help me think about a subject, not to attempt to persuade you what to think about one.
